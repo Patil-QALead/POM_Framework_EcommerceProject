@@ -45,7 +45,7 @@ public class ArrayListDemo_1 {
 			System.out.println("using index of object ---------");
 			System.out.println(random1.get(2));
 			System.out.println(random1.get(3));
-			
+			System.out.println(random1.get(3));
 			
 			
 		}
